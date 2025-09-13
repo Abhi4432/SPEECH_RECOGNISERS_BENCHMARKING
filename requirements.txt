@@ -1,0 +1,9 @@
+openai-whisper
+nemo_toolkit[asr]
+evaluate
+matplotlib
+pandas
+gTTS
+ffmpeg-python
+soundfile
+numpy
